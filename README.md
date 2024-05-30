@@ -18,12 +18,12 @@ I'm a Full Stack Developer and SEO Expert with having 9 years of strong experien
 ![Wix](https://img.shields.io/badge/-Wix-000?style=flat&logo=wix&logoColor=white)
 
 ### Tools
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logo
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logo)
 ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
 
 # 🔗 Connect with me
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/kanak-chaturvedi-2a0489b7/
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/kanak-chaturvedi-2a0489b7/)
 [![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:kanakgbs@gmail.com)
 
 <!---
